@@ -1,4 +1,7 @@
 #include <stdio.h>
+//Suma:
+
+//Resta:
 
 int main(void) {
   int x=6;
