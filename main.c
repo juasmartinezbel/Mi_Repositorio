@@ -1,6 +1,11 @@
 #include <stdio.h>
 //Suma:
-
+int suma(int x, int y){
+	int a=x;
+	int b=y
+	int c=a+b;
+	return c;
+}
 //Resta:
 
 int main(void) {
