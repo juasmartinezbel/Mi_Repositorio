@@ -7,6 +7,12 @@ int suma(int x, int y){
 	return c;
 }
 //Resta:
+int resta(int x, int y){ 
+  int i=x; 
+  int j=y 
+  int k=i-j; 
+  return k; 
+} 
 
 int main(void) {
   int x=6;
